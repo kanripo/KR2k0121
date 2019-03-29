@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 嵗華紀麗譜
-#+DATE: 2019-03-29 20:58:21.664465
+#+DATE: 2019-03-29 20:58:21.696758
 #+PROPERTY: ID KR2k0121
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2k0121_WYG_000-1a>¶
 　　欽定四庫全書　　　　　史部十一¶
